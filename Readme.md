@@ -88,7 +88,7 @@ import {
     calcHashAnticipationDefault,
     calcDiscountPercentage,
     calcGenericAnticipationToJson
-} from 'hash-anticipation-calc-lib'
+} from 'hash-anticipation-calc-library'
 ```
 ## Developing
 
@@ -136,8 +136,8 @@ Here's a brief intro about what a developer must do in order to start developing
 the project further:
 
 ```shell
-git clone https://github.com/orlandopamplona/
-cd hash-anticipation-calc-lib
+git clone https://github.com/orlandopamplona/hash-anticipation-calc-library
+cd hash-anticipation-calc-library
 npm install
 npm run build
 ```
@@ -150,7 +150,7 @@ npm run build
 
 Its library is already available in the npm repository to install using:
 ```shell
-npm install hash-anticipation-calc-lib
+npm install hash-anticipation-calc-library
 ```
 
 ## Running tests
