@@ -4,7 +4,8 @@
   "description": "Calculates installment anticipation.",
   "main": "lib/hash-anticipation-calc-lib.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "test": "jest"
   },
   "keywords": [],
   "author": "Orlando Pamplona Eing",
