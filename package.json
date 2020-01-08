@@ -2,7 +2,7 @@
   "name": "hash-anticipation-calc-library",
   "version": "0.0.1",
   "description": "Calculates installment anticipation.",
-  "main": "lib/hash-anticipation-calc-lib.js"
+  "main": "lib/hash-anticipation-calc-lib.js",
   "repository": {
 	  "type": "git",
 	  "url": "https://github.com/orlandopamplona/hash-anticipation-calc-library"
